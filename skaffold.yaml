@@ -46,3 +46,4 @@ profiles:
       kustomize: 
         paths:
           - "bnbbank-app-config/overlays/prod"
+
